@@ -15,7 +15,7 @@ namespace InsertRows
             {
                 db.COMPANY.Add(new COMPANY
                 {
-                    ID = 2,
+                    ID = 1,
                     NAME = "Allen",
                     AGE = 25,
                     ADDRESS = "California",
@@ -24,7 +24,7 @@ namespace InsertRows
 
                 db.COMPANY.Add(new COMPANY
                 {
-                    ID = 3,
+                    ID = 2,
                     NAME = "Paul",
                     AGE = 32,
                     ADDRESS = "California",
@@ -33,7 +33,7 @@ namespace InsertRows
 
                 db.COMPANY.Add(new COMPANY
                 {
-                    ID = 4,
+                    ID = 3,
                     NAME = "Teddy",
                     AGE = 23,
                     ADDRESS = "Norway",
@@ -42,7 +42,7 @@ namespace InsertRows
 
                 db.COMPANY.Add(new COMPANY
                 {
-                    ID = 5,
+                    ID = 4,
                     NAME = "Mark",
                     AGE = 25,
                     ADDRESS = "Richmond",
