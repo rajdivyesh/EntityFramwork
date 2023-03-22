@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query", "Query\Query.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update", "Update\Update.csproj", "{326EFEA1-4312-4EB5-B758-81A322C792B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteTable", "DeleteTable\DeleteTable.csproj", "{EA7B4E01-5218-4674-A673-5E65E5F1CD15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{326EFEA1-4312-4EB5-B758-81A322C792B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326EFEA1-4312-4EB5-B758-81A322C792B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326EFEA1-4312-4EB5-B758-81A322C792B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7B4E01-5218-4674-A673-5E65E5F1CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7B4E01-5218-4674-A673-5E65E5F1CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7B4E01-5218-4674-A673-5E65E5F1CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7B4E01-5218-4674-A673-5E65E5F1CD15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
